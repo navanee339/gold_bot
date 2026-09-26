@@ -1,0 +1,25 @@
+# Secrets — never commit these
+.env
+credentials.json
+*.pem
+*.key
+
+# Live user data
+subscribers.json
+backups/
+
+# Local backups of the pre-migration code
+_backup_pre_migration/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

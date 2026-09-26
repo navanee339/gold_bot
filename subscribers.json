@@ -1,0 +1,68 @@
+{
+  "987710456": {
+    "subscribed": true,
+    "daily_count": 7,
+    "last_query_date": "2026-05-22",
+    "total_queries": 7,
+    "first_name": "Navaneethan",
+    "username": "neethanB",
+    "created": "2026-05-22T01:44:00.926642",
+    "reg_step": null,
+    "reg_city": null
+  },
+  "2133929436": {
+    "subscribed": true,
+    "daily_count": 1,
+    "last_query_date": "2026-05-22",
+    "total_queries": 1,
+    "first_name": "Yuva Raghavi",
+    "username": "",
+    "created": "2026-05-22T17:01:57.877746",
+    "reg_step": null,
+    "reg_city": "Coimbatore"
+  },
+  "2012337433": {
+    "subscribed": true,
+    "daily_count": 1,
+    "last_query_date": "2026-05-22",
+    "total_queries": 1,
+    "first_name": "*",
+    "username": "",
+    "created": "2026-05-22T17:10:31.334165",
+    "reg_step": null,
+    "reg_city": "Coimbatore"
+  },
+  "377378445": {
+    "subscribed": true,
+    "daily_count": 3,
+    "last_query_date": "2026-05-23",
+    "total_queries": 9,
+    "first_name": "Solus",
+    "username": "Recluse_7",
+    "created": "2026-05-22T17:54:24.174643",
+    "reg_step": null,
+    "reg_city": "Madurai"
+  },
+  "8696447697": {
+    "subscribed": true,
+    "daily_count": 2,
+    "last_query_date": "2026-05-22",
+    "total_queries": 2,
+    "first_name": "Kiruthika",
+    "username": "",
+    "created": "2026-05-22T20:06:46.923094",
+    "reg_step": null,
+    "reg_city": "Coimbatore"
+  },
+  "8632561747": {
+    "subscribed": true,
+    "daily_count": 2,
+    "last_query_date": "2026-05-22",
+    "total_queries": 2,
+    "first_name": "Rakul",
+    "username": "",
+    "created": "2026-05-22T22:18:12.763650",
+    "reg_step": null,
+    "reg_city": "Karur"
+  }
+}

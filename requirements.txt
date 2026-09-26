@@ -1,0 +1,15 @@
+python-telegram-bot==21.10
+python-dotenv==1.0.1
+APScheduler==3.10.4
+pytz==2024.1
+
+# Google Drive source (RATES_SOURCE=drive). Safe to remove once you're on
+# the GitHub feed.
+google-api-python-client==2.164.0
+google-auth==2.38.0
+
+# Only needed when DATABASE_URL is set (Phase 3+).
+asyncpg==0.30.0
+
+# httpx is intentionally not pinned here — python-telegram-bot already
+# depends on it, and adding our own constraint risks a resolver conflict.
